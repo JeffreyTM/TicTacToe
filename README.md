@@ -1,1 +1,1 @@
-TicTacToe
+Short Tic tac toe game
